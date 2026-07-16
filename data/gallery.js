@@ -23,6 +23,33 @@ export const data = {
 },
   images: [
   {
+    "id": "PM-F3PU5K",
+    "title": "Elden Ring",
+    "date": "22/08/2024",
+    "tbn": "https://i.ibb.co/nMTdgKSn/tbn-PM-R7-CXS5-1784235251407.jpg",
+    "src": "https://i.ibb.co/VYBd7YJV/PM-R7-CXS5-1784235251407.jpg",
+    "width": 1920,
+    "height": 1080,
+    "dominantColor": "#404020",
+    "palette": [
+      "#404020",
+      "#808040",
+      "#c09030",
+      "#909080",
+      "#c0c070",
+      "#606070",
+      "#101010",
+      "#f0f080"
+    ],
+    "words": [
+      "ER"
+    ],
+    "characters": [
+      "Elden Beast"
+    ],
+    "extras": []
+  },
+  {
     "id": "PM-UU9G45",
     "title": "Elden Ring",
     "date": "22/08/2024",
