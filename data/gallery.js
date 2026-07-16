@@ -23,6 +23,30 @@ export const data = {
 },
   images: [
   {
+    "id": "PM-PA9IWV",
+    "title": "Resident Evil 2",
+    "date": "01/05/2026",
+    "tbn": "https://i.ibb.co/mrTTrD8x/tbn-PM-VK8-KHD-1784169257202.jpg",
+    "src": "https://i.ibb.co/PGdwnCTp/PM-VK8-KHD-1784169257202.jpg",
+    "width": 1920,
+    "height": 1080,
+    "dominantColor": "#101010",
+    "palette": [
+      "#101010",
+      "#505040",
+      "#e0d0a0",
+      "#707070"
+    ],
+    "words": [
+      "RE2"
+    ],
+    "characters": [
+      "Leon",
+      "Ada"
+    ],
+    "extras": []
+  },
+  {
     "id": "PM-44T857",
     "title": "The First Descendant",
     "date": "17/03/2026",
