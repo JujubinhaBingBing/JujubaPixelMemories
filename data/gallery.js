@@ -71,7 +71,8 @@ export const data = {
     "characters": [
       "Leon"
     ],
-    "extras": []
+    "extras": [],
+    "description": "."
   },
   {
     "id": "PM-PA9IWV",
