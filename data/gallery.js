@@ -23,6 +23,33 @@ export const data = {
 },
   images: [
   {
+    "id": "PM-1IKP5B",
+    "title": "Elden Ring",
+    "date": "22/08/2024",
+    "tbn": "https://i.ibb.co/N6fkyRX1/tbn-PM-0-UYCFB-1784235476987.jpg",
+    "src": "https://i.ibb.co/pjRMJkNG/PM-0-UYCFB-1784235476987.jpg",
+    "width": 1920,
+    "height": 1080,
+    "dominantColor": "#303030",
+    "palette": [
+      "#303030",
+      "#605050",
+      "#b0a090",
+      "#404040",
+      "#505050",
+      "#303020",
+      "#504040",
+      "#403030"
+    ],
+    "words": [
+      "ER"
+    ],
+    "characters": [
+      "Radagon"
+    ],
+    "extras": []
+  },
+  {
     "id": "PM-F3PU5K",
     "title": "Elden Ring",
     "date": "22/08/2024",
