@@ -23,6 +23,30 @@ export const data = {
 },
   images: [
   {
+    "id": "PM-UU9G45",
+    "title": "Elden Ring",
+    "date": "22/08/2024",
+    "tbn": "https://i.ibb.co/BVmVWSwG/tbn-PM-JL8-E53-1784211635925.jpg",
+    "src": "https://i.ibb.co/tw3DHnH9/PM-JL8-E53-1784211635925.jpg",
+    "width": 1920,
+    "height": 1080,
+    "dominantColor": "#101010",
+    "palette": [
+      "#101010",
+      "#404030",
+      "#807060",
+      "#d0c0b0",
+      "#a0a080"
+    ],
+    "words": [
+      "ER"
+    ],
+    "characters": [
+      "Maliketh"
+    ],
+    "extras": []
+  },
+  {
     "id": "PM-XR36YR",
     "title": "Resident Evil 2",
     "date": "04/04/2026",
