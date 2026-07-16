@@ -23,6 +23,33 @@ export const data = {
 },
   images: [
   {
+    "id": "PM-XR36YR",
+    "title": "Resident Evil 2",
+    "date": "04/04/2026",
+    "tbn": "https://i.ibb.co/BVfgWfjz/tbn-PM-X5-DRUB-1784169884017.jpg",
+    "src": "https://i.ibb.co/fYyJKpRt/PM-X5-DRUB-1784169884017.jpg",
+    "width": 1920,
+    "height": 1080,
+    "dominantColor": "#202020",
+    "palette": [
+      "#202020",
+      "#405050",
+      "#203030",
+      "#202030",
+      "#304040",
+      "#303030",
+      "#303040",
+      "#404040"
+    ],
+    "words": [
+      "RE2"
+    ],
+    "characters": [
+      "Leon"
+    ],
+    "extras": []
+  },
+  {
     "id": "PM-PA9IWV",
     "title": "Resident Evil 2",
     "date": "01/05/2026",
