@@ -1,27 +1,4 @@
-export const data = {
-  author: {
-  "id": "jujuba",
-  "name": "Jujuba",
-  "icon": "",
-  "githubUser": "jujubinhabingbing",
-  "background": "",
-  "color": "#d02be6",
-  "summary": "Breve biografia sobre o autor...",
-  "socials": [
-    {
-      "name": "Instagram",
-      "url": "https://instagram.com/..."
-    }
-  ],
-  "allowDownloads": true,
-  "bannerStyle": "standard",
-  "galleryStyle": "masonry",
-  "gitGalleryPath": "data/authors/jujubinhabingbing/gallery.js",
-  "gitCollectionsPath": "data/authors/jujubinhabingbing/collection.js",
-  "privateGalleryPath": "data/gallery.js",
-  "privateCollectionsPath": "data/collections.js"
-},
-  images: [
+[
   {
     "id": "PM-P8TQ9V",
     "title": "Elden Ring",
@@ -198,4 +175,3 @@ export const data = {
     "extras": []
   }
 ]
-};
