@@ -1,0 +1,17 @@
+{
+  "id": "jujuba",
+  "name": "Jujuba",
+  "icon": "",
+  "background": "",
+  "color": "#d02be6",
+  "summary": "Breve biografia sobre o autor...",
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/..."
+    }
+  ],
+  "allowDownloads": true,
+  "bannerStyle": "standard",
+  "galleryStyle": "masonry"
+}
