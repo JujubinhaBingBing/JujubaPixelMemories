@@ -1,10 +1,10 @@
 {
   "id": "jujuba",
   "name": "Jujuba",
-  "icon": "",
-  "background": "",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav-9QvTZh6D-wVw0EzVrCwPzmzl6tXxCoGrDdWb2Gx1D3Oq9yX5jRgg&s=10",
+  "background": "https://i.pinimg.com/736x/78/2e/52/782e52eed82cff060dd0acbe236c99fc.jpg",
   "color": "#d02be6",
-  "summary": "Breve biografia sobre o autor...",
+  "summary": ":3",
   "socials": [
     {
       "name": "Instagram",
